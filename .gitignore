@@ -1,0 +1,8 @@
+# Secrets - never commit
+.env
+.clasp.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
